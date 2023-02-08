@@ -50,3 +50,8 @@ $ pip install requests or pip3 install requests
 
 $ python Dorker.py or python3 Dorker.py
 
+```
+
+```
+SpeciaL Thanks To: Jakarta GrayHat Hacker's , INDOS666Gh0sT Sec | Revolutions , Anonymous Indonesia | Revolutions , GrayHat Sec666 Gh0sT , Manusia Super Hacker Team , Hacker Patah Hati The Greatzzz All Hacker RulezZ 2016-2023
+```
